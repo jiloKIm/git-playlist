@@ -6,4 +6,7 @@
 
 ## 목록 
 
-- [AJR - THE MAYBE MAN](the-maybe-man/README.md)
+- [AJR - THE MAYBE MAN](the-maybe-man/README.md) 
+
+- [악동뮤지션-후라이의꿈](후라이의꿈/README.md) 
+
